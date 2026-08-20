@@ -1,0 +1,7 @@
+machine_id,regular_hours,overtime_hours,labor_requirement,maintenance_cost,availability
+M01,90,18,3,1200,0.97
+M02,80,16,2,900,0.95
+M03,80,16,2,900,0.93
+M04,80,16,2,850,0.93
+M05,70,10,1,600,0.9
+M06,70,10,1,550,0.9
