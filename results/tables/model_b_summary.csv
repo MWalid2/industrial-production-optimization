@@ -1,0 +1,2 @@
+model,status,total_cost,mip_gap_pct,solve_time_s
+"Model B (MILP, with setup)",2,84286.65655922618,0.49560329502291844,2.0997869968414307
